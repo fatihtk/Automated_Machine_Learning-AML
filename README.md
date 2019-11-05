@@ -1,2 +1,2 @@
-# Automated_Machne_Learning(AML)
+# Automated_Machine_Learning(AML)
  
